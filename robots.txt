@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocogeedi.github.io/Ddr/sitemap_index.txt
+Sitemap: https://ocogeedi.github.io/EYJ/sitemap_index.txt
+Sitemap: https://ocogeedi.github.io/xiL/sitemap_index.txt
+Sitemap: https://ocogeedi.github.io/yah/sitemap_index.txt
